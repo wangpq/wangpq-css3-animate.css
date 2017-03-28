@@ -2,17 +2,14 @@
 几个目前网上流行的CSS3动画库
 
 
-animate.css
-
+## animate.css
 https://daneden.github.io/animate.css/
 
 
-Effeckt.css
-
+## Effeckt.css
 https://github.com/h5bp/Effeckt.css
 
-ModalWindowEffects
-
+## ModalWindowEffects
 具有多种效果的JQuery弹出层
 
 https://github.com/codrops/ModalWindowEffects
@@ -20,6 +17,5 @@ https://github.com/codrops/ModalWindowEffects
 http://tympanus.net/Development/ModalWindowEffects/
 
 
-kontext
-
+## kontext
 http://lab.hakim.se/kontext/
