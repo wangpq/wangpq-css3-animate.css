@@ -4,15 +4,15 @@
 ### animate.css
 https://daneden.github.io/animate.css/
 
+### magic
+https://github.com/miniMAC/magic
+
 ### Effeckt.css
 https://github.com/h5bp/Effeckt.css
 
-### ModalWindowEffects
-具有多种效果的JQuery弹出层
+### ModalWindowEffects ------ 具有多种效果的JQuery弹出层
 
 https://github.com/codrops/ModalWindowEffects
 
 http://tympanus.net/Development/ModalWindowEffects/
 
-### kontext
-http://lab.hakim.se/kontext/
