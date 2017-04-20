@@ -6,6 +6,7 @@ https://daneden.github.io/animate.css/
 
 ### magic
 https://github.com/miniMAC/magic
+https://minimamente.com/example/magic_animations/
 
 ### Effeckt.css
 https://github.com/h5bp/Effeckt.css
